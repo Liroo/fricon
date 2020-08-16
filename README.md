@@ -1,0 +1,2 @@
+# fricon
+A trader bot 💸
